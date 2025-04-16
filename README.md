@@ -10,5 +10,5 @@
 맛집 상세 정보: 맛집 이미지, 상호, 평점, 위치 제공
 
 #### 실행 방법
-저장소 연결: https://github.com/yjkunnu/duksung_diner.git
+저장소 연결: https://github.com/yjkunnu/duksung_diner.git  
 페이지 연결: https://yjkunnu.github.io/duksung_diner/index.html
