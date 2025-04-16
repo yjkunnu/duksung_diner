@@ -1,25 +1,33 @@
+/* 링크 hover 효과 */
 a:hover {background:yellow}
 html {scroll-behavior: smooth;}
+
+/* 테이블 스타일링 */
 table {
     border-collapse: collapse;
     width: 80%;
     margin-top: 20px; }
-  
-  
+    
+
+/* 테이블 셀 */
   td, th {
     border: 1px solid darkgreen;
     padding: 4px 6px;
     text-align: center; 
     background-color: white; }
 
+/* 헤더 스타일링 */
  h1 {
   color: darkblue;
   font-size: 26px;
   text-align: center; }
 
+/* 페이지 배경색 */
 body {
     background-color: #f9f9f9;
 }
+
+/* 섹션 구분 scroll */
 section {
   scroll-margin-top: 80px; 
 }
